@@ -15,7 +15,7 @@
 <div align="center">
   <samp> 🖖 PHP Lover | 😍 Anime Lover | 👩 Vtuber Lover | 💻 Backend Developer </samp><br>
   <samp><b>I Hope You Enjoy My Website</b> <br> <b>Website Tools : https://fitrahxsenpai.my.id/</b> <br> <b>Website Store : https://fitrahxstore.my.id/</b></samp>
-</div><br>
+</div>
 <div align="center">
   <samp><h1> Stacks of Technologies That I Learned </h1></samp>
 </div>
@@ -27,11 +27,11 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div><br>
+</div>
 <div align="center">
   <samp><h1> FitrahXSenpai Github Stats </h1></samp>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FitrahXSenpai&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&bg_color=000000&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF" height="200">
   <img src="https://github-readme-stats.vercel.app/api?username=FitrahXSenpai&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&bg_color=000000&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF" height="200">
-</div><br>
+</div>
