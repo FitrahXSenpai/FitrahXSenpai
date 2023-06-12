@@ -13,7 +13,7 @@
   <a href="https://api.whatsapp.com/send/?phone=6289655089034"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div><br>
 <div align="center">
-  <samp> 🖖 PHP Lover | 😍 Anime Lover | 👩 Vtuber Lover | 💻 Backend Developer </samp><br>
+  <samp> 🖖 PHP Lover | 😍 Anime Lover </samp><br><br>
   <samp><b>I Hope You Enjoy My Website</b> <br> <b>Website Tools : https://fitrahxsenpai.my.id/</b> <br> <b>Website Store : https://fitrahxstore.my.id/</b></samp>
 </div>
 <div align="center">
