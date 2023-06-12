@@ -32,6 +32,6 @@
   <samp><h1> FitrahXSenpai Github Stats </h1></samp>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FitrahXSenpai&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&bg_color=000000&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF" height="200">
-  <img src="https://github-readme-stats.vercel.app/api?username=FitrahXSenpai&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&bg_color=000000&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FitrahXSenpai&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&bg_color=000000&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=FitrahXSenpai&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&bg_color=000000&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF" height="150">
 </div>
