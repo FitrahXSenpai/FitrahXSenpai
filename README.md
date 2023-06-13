@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/WvCndXM/1c688df1374afc6f40a6b6a67c9716e29561c459-s2-n2.png" class="rounded float-center" width="250" height="250">
+  <img src="https://i.ibb.co/WvCndXM/1c688df1374afc6f40a6b6a67c9716e29561c459-s2-n2.png" class="rounded float-center" width="250" height="250">
 </div>
 <div align="center">
   <samp><h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" height="30"> Hello There!</h1></samp>
@@ -27,11 +27,4 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
-<div align="center">
-  <samp><h1> FitrahXSenpai Github Stats </h1></samp>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FitrahXSenpai&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&bg_color=000000&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF" height="150">
-  <img src="https://github-readme-stats.vercel.app/api?username=FitrahXSenpai&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=8&bg_color=000000&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF" height="150">
 </div>
