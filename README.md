@@ -17,7 +17,7 @@
   <samp><b>I Hope You Enjoy My Website</b> <br> <b>Website Tools : https://fitrahxsenpai.my.id/</b> <br> <b>Website Store : https://fitrahxstore.my.id/</b></samp>
 </div>
 <div align="center">
-  <samp><h1> Stacks of Technologies That I Learned </h1></samp>
+  <samp><h1> The Technology Stack I'm Studying </h1></samp>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
