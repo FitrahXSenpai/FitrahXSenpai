@@ -14,7 +14,7 @@
 </div><br>
 <div align="center">
   <samp> 🖖 PHP Lover | 😍 Anime Lover </samp><br><br>
-  <samp><b>I Hope You Enjoy My Website</b> <br> <b>Website Tools : https://fitrahxsenpai.my.id/</b> <br> <b>Website Store : https://fitrahxstore.my.id/</b></samp>
+  <samp><b>I Hope You Enjoy My Website</b> <br> <b>WebTools : https://fitrahxsenpai.my.id/</b> <br> <b>WebStore : https://fitrahxstore.my.id/</b></samp>
 </div>
 <div align="center">
   <samp><h1> The Technology Stack I'm Studying </h1></samp>
