@@ -13,8 +13,8 @@
 </div><br>
 <div align="center">
   <samp> 🖖 PHP Lover | 😍 Anime Lover </samp><br><br>
-  <samp><b>I Hope You Enjoy My Website</b> <br> 
-  <b>WebStore <br><br> : https://fitrahxstore.my.id/</b></samp>
+  <samp><b>I Hope You Enjoy My Website</b> <br><br> 
+  <b>WebStore <br> https://fitrahxstore.my.id/</b></samp>
 </div>
 <div align="center">
   <samp><h1> The Technology Stack I'm Studying </h1></samp>
