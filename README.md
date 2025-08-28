@@ -7,14 +7,14 @@
 <div align="center">
   <a href="https://facebook.com/FXS27/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://github.com/FitrahXSenpai/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
-  <a href="https://icq.im/fitrahxsenpai/en"><img src="https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=white"></a>
   <a href="https://www.instagram.com/fitrah.ramdhani_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://t.me/fitrahxsenpai"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
   <a href="https://api.whatsapp.com/send/?phone=6289655089034"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div><br>
 <div align="center">
   <samp> 🖖 PHP Lover | 😍 Anime Lover </samp><br><br>
-  <samp><b>I Hope You Enjoy My Website</b> <br> <b>WebTools : https://fitrahxsenpai.my.id/</b> <br> <b>WebStore : https://fitrahxstore.my.id/</b></samp>
+  <samp><b>I Hope You Enjoy My Website</b> <br> 
+  <b>WebStore <br><br> : https://fitrahxstore.my.id/</b></samp>
 </div>
 <div align="center">
   <samp><h1> The Technology Stack I'm Studying </h1></samp>
@@ -33,6 +33,5 @@
   <samp><h1> Systems OS </h1></samp>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
