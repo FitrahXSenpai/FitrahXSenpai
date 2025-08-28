@@ -5,7 +5,6 @@
   <samp><h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" height="30"> Hello There!</h1></samp>
 </div>
 <div align="center">
-  <a href="https://facebook.com/FXS27/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://github.com/FitrahXSenpai/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
   <a href="https://www.instagram.com/fitrah.ramdhani_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://t.me/fitrahxsenpai"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
@@ -14,7 +13,7 @@
 <div align="center">
   <samp> 🖖 PHP Lover | 😍 Anime Lover </samp><br><br>
   <samp><b>I Hope You Enjoy My Website</b> <br><br> 
-  <b>WebStore <br> fitrahxstore.my.id</b></samp>
+  <b>WebStore <br> https://fitrahxstore.my.id</b></samp>
 </div>
 <div align="center">
   <samp><h1> The Technology Stack I'm Studying </h1></samp>
